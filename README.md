@@ -2,7 +2,7 @@
 Welcome to the repository for my personal website! This is definitely a work in progess still  
 
 # Resources  
-https://codyhouse.co/gem/css-animated-headlines
+https://codyhouse.co/gem/css-animated-headlines  
 https://github.com/daneden/animate.css  
 
 # TO DO
